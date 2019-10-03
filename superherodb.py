@@ -34,12 +34,12 @@ def getCharacterStats(superhero_url):
     powers = character_content.find_all('div', {'class': 'stat-holder'})[0].find_all('div', {'class': 'stat-value'})
     power_stats = [powers[i].get_text() for i in range(6)]
     return {
-        'intelligence': power_stats[0],
+        'intelligence': int(power_stats[0]),
         'strength': power_stats[1],
-        'speed': power_stats[2],
-        'durability': power_stats[3],
-        'power': power_stats[4],
-        'combat': power_stats[5],
+        'speed': int(power_stats[2]),
+        'durability': int(power_stats[3]),
+        'power': int(power_stats[4]),
+        'combat': int(power_stats[5]),
         'height': character_height,
         'weight': character_weight
     }
@@ -47,14 +47,14 @@ def getCharacterStats(superhero_url):
 
 def dbConnection():
     config = {
-    'mysql': {
-        'driver': 'postgres',
-        'host': 'localhost',
-        'database': 'cards',
-        'user': 'postgres',
-        'password': 'postgres',
-        # 'log_queries': True
-    }
+        'mysql': {
+            'driver': 'postgres',
+            'host': 'localhost',
+            'database': 'cards',
+            'user': 'postgres',
+            'password': 'postgres',
+            # 'log_queries': True
+        }
     }
     return DatabaseManager(config)
 

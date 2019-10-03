@@ -1,34 +1,63 @@
-Captain America captain-america-worthy/10-13699/
-Thor Odinson thor/10-140/
-Iron Man iron-man/10-85/
-Hulk hulk/10-83/
+Ancient One ancient-one-mcu/10-12735/
+Ant-Man ant-man/10-857/
+Apocalypse apocalypse/10-852/
+Aquaman aquaman/10-634/
+Batman batman/10-639/
+Black Panther black-panther/10-247/
 Black Widow black-widow/10-248/
-Hawkeye hawkeye/10-73/
-Thanos thanos/10-1305/
-Deadpool deadpool/10-835/
-War Machine war-machine/10-536/
-Doctor Strange doctor-strange/10-55/
+Cable cable/10-40/
+Captain America captain-america-worthy/10-13699/
 Captain Marvel captain-marvel/10-103/
-Nebula nebula/10-10632/
-Wasp wasp/10-155/
-Falcon falcon/10-56/
-Loki loki/10-928/
+Catwoman catwoman/10-659/
+Cyborg cyborg/10-1204/
+Daredevil daredevil/10-52/
+Deadpool deadpool/10-835/
+Doctor Strange doctor-strange/10-55/
+Doomsday doomsday/10-679/
 Drax the Destroyer drax-the-destroyer/10-10016/
 Ebony Maw ebony-maw/10-11957/
-Rocket Raccoon rocket-raccoon/10-10010/
-Star-Lord star-lord/10-10015/
-Ant-Man ant-man/10-857/
-Black Panther black-panther/10-247/
-Spider-Man spider-man/10-133/
+Falcon falcon/10-56/
+Flash flash/10-891/
+Gambit gambit/10-64/
 Gamora gamora/10-65/
-Valkyrie valkyrie/10-147/
-Scarlet Witch scarlet-witch/10-444/
-Winter Soldier winter-soldier/10-10027/
-Mantis mantis/10-384/
-Shuri shuri/10-12191/
-Ancient One ancient-one-mcu/10-12735/
-M'baku mbaku-mcu/10-16672/
-Nick Fury nick-fury/10-326/
-Red Skull red-skull/10-1392/
+Ghost Rider ghost-rider/10-67/
 Groot groot/10-10017/
+Harley Quinn harley-quinn/10-701/
+Hawkeye hawkeye/10-73/
+Hulk hulk/10-83/
+Iron Man iron-man/10-85/
+Jean Grey jean-grey/10-814/
+Joker joker/10-719/
+Jubilee jubilee/10-87/
+Juggernaut juggernaut/10-826/
+Loki loki/10-928/
+Magneto magneto/10-12/
+Mantis mantis/10-384/
+Mystique mystique/10-817/
+M'baku mbaku-mcu/10-16672/
+Nebula nebula/10-10632/
+Nick Fury nick-fury/10-326/
+Professor X professor-x/10-113/
+Quicksilver quicksilver/10-115/
+Red Skull red-skull/10-1392/
+Robin robin/10-850/
+Rocket Raccoon rocket-raccoon/10-10010/
+Rogue rogue/10-831/
+Sabretooth sabretooth/10-17/
+Scarlet Witch scarlet-witch/10-444/
+Shazam shazam/10-278/
+She-Hulk she-hulk/10-125/
+Shuri shuri/10-12191/
+Spider-Man spider-man/10-133/
+Star-Lord star-lord/10-10015/
+Superman superman/10-791/
+Thanos thanos/10-1305/
+Thing thing/10-139/
+Thor Odinson thor/10-140/
+Valkyrie valkyrie/10-147/
 Vision vision/10-532/
+War Machine war-machine/10-536/
+Wasp wasp/10-155/
+Winter Soldier winter-soldier/10-10027/
+Wolverine wolverine/10-161/
+Wonder Woman wonder-woman/10-807/
